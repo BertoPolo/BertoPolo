@@ -1,2 +1,2 @@
 # Alberto-Polo
-Full-Stack Developer
+<b>Full-Stack Developer</b>
