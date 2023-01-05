@@ -2,6 +2,11 @@
 ## Full-Stack Developer
 <hr/>
 <p> When I was in high school I made a mistake choosing my professional career, I had always wanted to be a computer scientist, but for some reason I didn't.  At my 30, I gave myself the opportunity to fulfill my dream and now I am finally a Full Stack Developer 💪🏼.</p>
+
+<p>I'm always ready to help; I'm a person who loves team work and sharing knowledge and experiences.</p>
+
+<p>In constant personal and professional development, I value each situation as an opportunity to learn and improve.</p>
+
 <ul>
 
 <li>📍 Currently based in Menorca, willing to relocate</li> 
@@ -39,3 +44,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BertoPolo&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
   </div>
 </div>
+
