@@ -9,7 +9,7 @@
 
 <ul>
 
-<li>📍 Currently based in Menorca, willing to relocate</li> 
+<li>📍 Currently based in Paris,France, but relocation it's never a problem</li> 
 
 <li>✉️ bertopolo91@gmail.com</li>
 
