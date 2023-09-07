@@ -3,13 +3,13 @@
 <hr/>
 <p> When I was in high school I made a mistake choosing my professional career, I had always wanted to be a computer scientist, but for some reason I didn't.  At my 30, I gave myself the opportunity to fulfill my dream and now I am finally a Full Stack Developer 💪🏼.</p>
 
-<p>I'm always ready to help; I'm a person who loves team work and sharing knowledge and experiences.</p>
+<p>I'm always ready to help and a person who loves team work and sharing knowledge and experiences.</p>
 
 <p>In constant personal and professional development, I value each situation as an opportunity to learn and improve.</p>
 
 <ul>
 
-<li>📍 Currently based in Paris,France, but relocation it's never a problem</li> 
+<li>📍 Currently based in Paris, France, but relocation it's never a problem</li> 
 
 <li>✉️ bertopolo91@gmail.com</li>
 
