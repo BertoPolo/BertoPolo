@@ -9,7 +9,7 @@
 
 <ul>
 
-<li>📍 Currently based in Paris, France, but relocation it's never a problem</li> 
+<li>📍 Currently based in Paris, France</li> 
 
 <li>✉️ bertopolo91@gmail.com</li>
 
