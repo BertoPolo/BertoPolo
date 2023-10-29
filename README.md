@@ -15,6 +15,8 @@
 
 <li>🛵 I love motorbikes (especially Harley Davidson), hiking and discovering new places </li> 
 
+<li>📃 Portfolio available soon </li> 
+
 </ul>
 
 ### TECHSTACK
