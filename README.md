@@ -13,7 +13,7 @@
 
 <li>🛵 I love motorbikes (especially Harley Davidson), hiking and discovering new places </li> 
 
-<li>📃 Portfolio : alberto.menorca.net (Under construction) </li> 
+<li>📃 Portfolio : <!--alberto.menorca.net -->(Under construction) </li> 
 
 </ul>
 
