@@ -38,7 +38,3 @@
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/bertopolo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BertoPolo)](https://github.com/anuraghazra/github-readme-stats)
-
