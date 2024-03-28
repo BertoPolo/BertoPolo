@@ -40,11 +40,5 @@
 <p align="left"> <a href="https://www.linkedin.com/in/bertopolo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BertoPolo)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- <div align="center">
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BertoPolo&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-  </div>
-</div> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BertoPolo)](https://github.com/anuraghazra/github-readme-stats)
 
