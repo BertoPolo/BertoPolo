@@ -40,7 +40,7 @@
 <p align="left"> <a href="https://www.linkedin.com/in/bertopolo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?BertoPolo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BertoPolo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <div align="center">
   <div style="display: flex;">
