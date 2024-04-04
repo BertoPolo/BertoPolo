@@ -11,7 +11,7 @@
 
 <li>✉️ bertopolo91@gmail.com</li>
 
-<li>🛵 I love motorbikes (especially Harley Davidson), hiking and discovering new places </li> 
+<li>🛵 I love motorbikes (especially old ones), hiking and discovering new places </li> 
 
 <li>📃 Portfolio : https://bertopolo.vercel.app/ <!--alberto.menorca.net --> </li> 
 
