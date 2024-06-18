@@ -7,7 +7,7 @@
 
 <ul>
 
-<li>📍 Currently based in Paris, France</li> 
+<li>📍 Currently based between Paris, France and Spain</li> 
 
 <li>✉️ bertopolo91@gmail.com</li>
 
