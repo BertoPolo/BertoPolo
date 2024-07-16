@@ -7,7 +7,7 @@
 
 <ul>
 
-<li>📍 Currently based between France and Spain</li> 
+<li>📍 Currently based Spain</li> 
 
 <li>✉️ bertopolo91@gmail.com</li>
 
