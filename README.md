@@ -9,11 +9,11 @@
 
 <li>📍 Currently based Spain</li> 
 
-<li>✉️ bertopolo91@gmail.com</li>
+<!-- <li>✉️ bertopolo91@gmail.com</li> -->
 
 <li>🛵 I love motorbikes (especially old ones), hiking and discovering new places </li> 
 
-<li>📃 Portfolio : https://alberto.menorca.net/ <!--alberto.menorca.net --> </li> 
+<!-- <li>📃 Portfolio : https://alberto.menorca.net/ alberto.menorca.net  </li> -->
 
 </ul>
 
